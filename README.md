@@ -59,7 +59,7 @@ Sinta-se à vontade para explorar meus projetos e deixar um feedback. Estou semp
   </a>
 </div>
 
-<br clear="both">
+ 
 
  
 
