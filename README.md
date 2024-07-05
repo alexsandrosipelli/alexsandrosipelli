@@ -26,4 +26,5 @@ Confira o projeto .
 Contato
 E-mail: alexsandrosipelli@outlook.com  
 LinkedIn: https://www.linkedin.com/in/alexsandro-sipelli/
+
 Sinta-se à vontade para explorar meus projetos e deixar um feedback. Estou sempre aberto a colaborações e novas oportunidades!
