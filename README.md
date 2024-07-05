@@ -61,5 +61,5 @@ Sinta-se à vontade para explorar meus projetos e deixar um feedback. Estou semp
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alexsandrosipelli/alexsandrosipelli/output/snake.svg" alt="Snake animation" />
+ 
 
