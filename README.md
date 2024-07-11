@@ -21,7 +21,7 @@
 
 #### Sistema de Gerenciamento de Tarefas
 Um aplicativo web para gerenciar tarefas, desenvolvido com Spring Boot, Java, HTML, CSS e JavaScript. 
-[Confira o projeto](#).
+[Confira o projeto](https://github.com/alexsandrosipelli/Projetos-2024/tree/main/Gerenciamento%20de%20Tarefas).
 
 ### Contato
 
