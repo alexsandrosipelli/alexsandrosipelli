@@ -1,4 +1,5 @@
-<h2 align="left">Olá! Meu nome é Alexsandro e este é o meu repositório no GitHub. Sou estudante de Análise e Desenvolvimento de Sistemas e estou sempre buscando novas oportunidades para aprender e aplicar meus conhecimentos em desenvolvimento de software.</h2>
+<h2 align="left">Olá! Meu nome é Alexsandro e este é o meu repositório no GitHub. Sou estudante de Análise e Desenvolvimento de Sistemas e estou sempre buscando novas oportunidades para aprender e aplicar meus conhecimentos em desenvolvimento de software.
+acesse meu portfólio --> https://alexsandrosipelli.github.io/Portfolio/ </h2>
 
 ### Sobre Mim
 
