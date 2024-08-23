@@ -6,11 +6,7 @@ acesse meu portfólio --> https://alexsandrosipelli.github.io/Portfolio/ </h2>
 🌱 **Estudante no Senac:** Atualmente cursando Análise e Desenvolvimento de Sistemas (Tecnólogo).
 
 💼 **Experiência Diversificada:** Trabalhei em diversas áreas, o que me ensinou a importância da resiliência, adaptação e trabalho em equipe.
-
-💻 **Apaixonado por Tecnologia:** Tenho uma forte paixão por tecnologia e estou constantemente explorando novas linguagens e frameworks.
-
-📚 **Aprendizagem Contínua:** Recentemente, concluí cursos em Inteligência Artificial.
-
+ 
 ### Habilidades Técnicas
 
 - **Linguagens de Programação:** Java, JavaScript, HTML, CSS
