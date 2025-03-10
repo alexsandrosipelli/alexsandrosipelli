@@ -2,24 +2,26 @@
 Acesse meu portfólio --> <a href="https://alexsandrosipelli.github.io/Portfolio/" target="_blank">Clique aqui</a>  
 </h2>
 
-### Sobre Mim
+### Sobre Mim  
 
-🌱 **Estudante no Senac:** Atualmente cursando Análise e Desenvolvimento de Sistemas (Tecnólogo).
+🌱 **Formado no Senac:** Graduado em Análise e Desenvolvimento de Sistemas (Tecnólogo).  
 
-💼 **Experiência Diversificada:** Trabalhei em diversas áreas, o que me ensinou a importância da resiliência, adaptação e trabalho em equipe.
- 
+💼 **Atualmente trabalhando como Suporte Técnico:** Buscando migração para a área de desenvolvimento de software, aplicando meus conhecimentos e aprimorando minhas habilidades.  
+
 ### Habilidades Técnicas
 
-- **Linguagens de Programação:** Java, JavaScript, HTML, CSS
-- **Frameworks e Bibliotecas:** Spring Boot, Thymeleaf
-- **Bancos de Dados:** MySQL, H2
-- **Ferramentas e Tecnologias:** Git, GitHub, RESTful APIs
+- **Linguagens de Programação:** Java, JavaScript, HTML, CSS  
+- **Frameworks e Bibliotecas:** Spring Boot, Thymeleaf, Bootstrap  
+- **Bancos de Dados:** MySQL, PostgreSQL, H2  
+- **Ferramentas e Tecnologias:** Git, GitHub, Postman, RESTful APIs  
+- **Outras Competências:** Modelagem de banco de dados, consumo e desenvolvimento de APIs, versionamento de código e boas práticas de desenvolvimento  
 
 ### Projetos Destacados
 
-#### Sistema de Gerenciamento de Tarefas
-Um aplicativo web para gerenciar tarefas, desenvolvido com Spring Boot, Java, HTML, CSS e JavaScript. 
-[Confira o projeto](https://github.com/alexsandrosipelli/Projetos-2024/tree/main/Gerenciamento%20de%20Tarefas).
+#### 📌 Sistema de Gerenciamento de Tarefas  
+Aplicação web intuitiva para organizar e gerenciar tarefas de forma eficiente. Desenvolvida com **Spring Boot, Java, HTML, CSS e JavaScript**, permitindo a criação, edição e exclusão de tarefas.  
+
+🔗 [Confira o projeto no GitHub](https://github.com/alexsandrosipelli/Projetos-2024/tree/main/Gerenciamento%20de%20Tarefas)  
 
 ### Contato
 
