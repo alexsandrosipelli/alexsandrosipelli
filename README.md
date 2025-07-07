@@ -1,65 +1,24 @@
-<h2 align="left">Olá! Meu nome é Alexsandro e este é o meu repositório no GitHub. Sou formado em Análise e Desenvolvimento de Sistemas e estou buscando novas oportunidades para aplicar meus conhecimentos em desenvolvimento de software.</br>  
-Acesse meu portfólio --> <a href="https://alexsandrosipelli.github.io/Portfolio/" target="_blank">Clique aqui</a>  
-</h2>
+# Alexsandro Sipelli
 
-### Sobre Mim  
+Desenvolvedor em transição com projetos sólidos usando Java, Spring Boot e tecnologias web. Já desenvolvi sistemas com leitura de arquivos CSV, geração de relatórios, CRUDs e integração backend/frontend. Estou pronto para atuar em time e resolver problemas com código.
 
-🌱 **Formado no Senac:** Graduado em Análise e Desenvolvimento de Sistemas (Tecnólogo).  
+## Skills
 
-💼 **Atualmente trabalhando como Suporte Técnico:** Buscando migração para a área de desenvolvimento de software, aplicando meus conhecimentos e aprimorando minhas habilidades.  
+- Java, Spring Boot, APIs REST
+- HTML, CSS, JavaScript, Bootstrap, Thymeleaf
+- PostgreSQL, MySQL, H2
+- Git, GitHub, Postman
+- Modelagem de dados, leitura e análise de CSV
 
-### Habilidades Técnicas
+## Projetos
 
-- **Linguagens de Programação:** Java, JavaScript, HTML, CSS  
-- **Frameworks e Bibliotecas:** Spring Boot, Thymeleaf, Bootstrap  
-- **Bancos de Dados:** MySQL, PostgreSQL, H2  
-- **Ferramentas e Tecnologias:** Git, GitHub, Postman, RESTful APIs  
-- **Outras Competências:** Modelagem de banco de dados, consumo e desenvolvimento de APIs, versionamento de código e boas práticas de desenvolvimento  
+- [Central da Impressão](https://github.com/alexsandrosipelli/CENTRAL-DA-IMPRESS-O) — análise de CSVs e relatórios sobre impressoras
+- [Gerenciador de Tarefas](https://github.com/alexsandrosipelli/Gerenciamento-de-Tarefas) — CRUD com Spring Boot
+- [Marmitando](https://github.com/alexsandrosipelli/Marmitando) — app delivery em JavaScript
+- [Portfólio](https://github.com/alexsandrosipelli/Portfolio) — vitrine de projetos
 
-### Projetos Destacados
+## Contato
 
-#### 📌 Sistema de Gerenciamento de Tarefas  
-Aplicação web intuitiva para organizar e gerenciar tarefas de forma eficiente. Desenvolvida com **Spring Boot, Java, HTML, CSS e JavaScript**, permitindo a criação, edição e exclusão de tarefas.  
-
-🔗 [Confira o projeto no GitHub](https://github.com/alexsandrosipelli/Projetos-2024/tree/main/Gerenciamento%20de%20Tarefas)  
-
-### Contato
-
-- **E-mail:** alexsandrosipelli@outlook.com  
- 
-
-Sinta-se à vontade para explorar meus projetos e deixar um feedback. Estou sempre aberto a colaborações e novas oportunidades!
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexsandrosipelli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsandrosipelli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
- 
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-</div>
-
-<div align="left">
- 
-  <a href="https://www.linkedin.com/in/alexsandro-sipelli/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
- 
-
- 
-
+- 📧 alexsandrosipelli@outlook.com  
+- 🔗 [linkedin.com/in/alexsandro-sipelli](https://linkedin.com/in/alexsandro-sipelli)  
+- 🌐 [Portfólio Web](https://alexsandrosipelli.github.io/Portfolio)
